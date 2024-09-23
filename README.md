@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Iftikhor 
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning => Flutter Mobile Development
+- 📫 How to reach me => iftixorrustamovv@gmail.com
+
 
 <!---
 IftixorRustamov/IftixorRustamov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
