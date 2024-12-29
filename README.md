@@ -39,9 +39,7 @@
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://jandee.vercel.app/iftixorrustamov" alt="GitHub Contribution Calendar">
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iftixorrustamov&show_icons=true&locale=en&layout=compact" alt="iftixorrustamov" /></p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
 </div>
