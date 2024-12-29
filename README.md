@@ -69,7 +69,7 @@
 
 <h2 align="center">💡 Fun Extras</h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iftixorrustamov&theme=radical" alt="Productive Time Chart">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iftixorrustamov&theme=radical" alt="GitHub Weekly Summary">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
 
