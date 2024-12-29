@@ -40,6 +40,9 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iftixorrustamov&theme=radical&hide_border=true" alt="GitHub Contribution Streak">
+</div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
 </div>
  <div align="center">
