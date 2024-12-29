@@ -66,7 +66,7 @@
 
 <h2 align="center">💡 Fun Extras</h2>
 <div align="center">
-<img src="https://starchart.cc/iftixorrustamov/badges.svg" alt="GitHub Stars Received">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iftixorrustamov&theme=radical" alt="Wakatime Stats">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
 
