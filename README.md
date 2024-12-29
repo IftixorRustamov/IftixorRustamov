@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400" alt="Developer GIF">
+  <img src="https://media.giphy.com/media/xT1R9Wa8LPyWiz8cRa/giphy.gif" width="800" height="400" alt="Creative Developer GIF">
 </p>
 
 <h1 align="center">🚀 Welcome to My World 🌟</h1>
