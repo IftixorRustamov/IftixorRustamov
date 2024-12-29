@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nmvoices.org%2Farchives%2F13601&psig=AOvVaw3LPuUce_fL6bZKeXOZPu69&ust=1735586664937000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMiVwafazYoDFQAAAAAdAAAAABAh" width="800" height="400" alt="Developer GIF">
+  <img src="https://www.nmvoices.org/wp-content/uploads/2019/11/unnamed-13.gif" width="800" height="400" alt="Developer GIF">
 </p>
 
 <h1 align="center">🚀 Welcome to My World 🌟</h1>
