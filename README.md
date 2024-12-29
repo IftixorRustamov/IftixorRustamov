@@ -40,7 +40,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iftixorrustamov&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-profile-trophy.vercel.app/?username=iftixorrustamov&theme=radical&no-frame=true&column=4" alt="Trophy Showcase" width="48%">
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftixorrustamov&layout=compact&theme=radical" alt="Top Languages" width="48%">
@@ -72,13 +72,13 @@
 
 ---
 
-<h2 align="center">🎉 Fun Fact</h2>
+<h2 align="center">✨ A Cool Hobby</h2>
 
 <p align="center">
-  I can type at lightning speed: <strong>70-80 words per minute!</strong> 🚀<br>
-  And I’m always up for a coding challenge! 💻
+  Apart from coding, I love capturing moments through photography 📸 and exploring stunning landscapes 🌄.<br>
+  It keeps me inspired and fuels my creativity for innovative designs and ideas!
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/26xBMuMisFS76rGOk/giphy.gif" width="500" alt="Photography GIF">
 </p>
