@@ -69,7 +69,7 @@
 
 <h2 align="center">💡 Fun Extras</h2>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007bff&center=true&vCenter=true&width=800&lines=1k+Contributions+last+year;Built+20%2B+apps+this+year+alone" alt="Typing Animation">
+<img src="https://github-contribution-stats.vercel.app/api/v1/iftixorrustamov?type=ring&theme=dark" alt="Radial Contribution Graph">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
 
