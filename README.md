@@ -38,12 +38,6 @@
 
 ---
 
-## 🚀 My GitHub Contributions
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=iftixorrustamov&theme=react)
-
----
-
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
@@ -83,13 +77,12 @@
 
 ---
 
-<h2 align="center">✨ A Cool Hobby</h2>
+<h2 align="center">✨ Fun Fact</h2>
+
+I can type at lightning speed: **70-80 words per minute!** 🚀<br>
+And I’m always up for a coding challenge! 💻
 
 <p align="center">
-  Apart from coding, I love capturing moments through photography 📸 and exploring stunning landscapes 🌄.<br>
-  It keeps me inspired and fuels my creativity for innovative designs and ideas!
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Coding GIF">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBMuMisFS76rGOk/giphy.gif" width="500" alt="Photography GIF">
-</p>
