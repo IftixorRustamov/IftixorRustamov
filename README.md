@@ -40,7 +40,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://img.shields.io/badge/Contributions-Active-brightgreen" alt="GitHub Contributions">
+  <img src="https://jandee.vercel.app/iftixorrustamov" alt="GitHub Contribution Calendar">
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
