@@ -66,7 +66,7 @@
 
 <h2 align="center">💡 Fun Extras</h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftixorrustamov&theme=radical" alt="Profile Details">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftixorrustamov&theme=radical&hide_title=true" alt="Contribution Graph">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
 
