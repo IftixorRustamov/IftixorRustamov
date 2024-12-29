@@ -1,77 +1,84 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" alt="Coding GIF" width="500" height="300">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400" alt="Developer GIF">
 </p>
 
-<h1 align="center">Hi there 👋, I'm Iftikhor Rustamov</h1>
-<h3 align="center">A Passionate Mobile Developer from Uzbekistan 🌍</h3>
+<h1 align="center">🚀 Welcome to My World 🌟</h1>
+<h2 align="center">Hi, I'm <span style="color: #007bff;">Iftikhor Rustamov</span> 👋</h2>
+<h3 align="center">Passionate Mobile Developer | Dreamer | Creator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iftixorrustamov&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/iftixorrustamov?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
----
-
-<h3 align="center">👨‍💻 About Me:</h3>
-<ul>
-  <li>🌱 I’m currently diving deeper into <strong>Flutter Development</strong>.</li>
-  <li>💬 Ask me about <strong>Flutter, Dart, and Version Control</strong>.</li>
-  <li>✨ Fun Fact: I can type <strong>70-80 words per minute</strong>.</li>
-  <li>📫 Reach me at: <a href="mailto:iftixorrustamovv@gmail.com"><strong>iftixorrustamovv@gmail.com</strong></a>.</li>
-</ul>
-
----
-
-<h3 align="center">🛠️ Languages and Tools:</h3>
-<p align="center">
-  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-  <a href="https://figma.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
-  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007bff&center=true&vCenter=true&width=440&lines=Building+apps+that+connect+people.;Turning+ideas+into+reality.;Learning+something+new+every+day." alt="Typing Animation">
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<h2 align="center">💡 About Me</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftixorrustamov&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftixorrustamov&layout=compact&theme=tokyonight" alt="Top Languages" />
+  🔥 I'm a <strong>Mobile Developer</strong> from Uzbekistan 🇺🇿 who loves to create engaging and innovative mobile apps.<br>
+  🌱 Currently sharpening my skills in <strong>Flutter Development</strong>.<br>
+  🎯 My goal: To make the world more connected, one app at a time!<br>
+  💬 Ask me about <strong>Flutter, Dart, and Version Control</strong>.<br>
+  📫 How to reach me: <a href="mailto:iftixorrustamovv@gmail.com"><strong>iftixorrustamovv@gmail.com</strong></a>.
 </p>
 
 ---
 
-<h3 align="center">🌐 Connect with Me:</h3>
-<p align="center">
+<h2 align="center">🛠️ Skills & Tools</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iftixorrustamov&theme=radical" alt="GitHub Streak" width="48%">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftixorrustamov&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</div>
+
+---
+
+<h2 align="center">🌐 Let's Connect!</h2>
+
+<div align="center">
   <a href="https://linkedin.com/in/iftikhor-rustamov" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://instagram.com/im_iftikhor" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.leetcode.com/iftixorrustamovv" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
-</p>
+</div>
 
 ---
 
-<h3 align="center">💡 Fun Extras:</h3>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftixorrustamov&theme=github_dark" alt="Profile Details" />
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
-</p>
+<h2 align="center">💡 Fun Extras</h2>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftixorrustamov&theme=radical" alt="Profile Details">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
+</div>
 
 ---
 
-<h3 align="center">🚀 Let's Code the Future Together!</h3>
+<h2 align="center">🎉 Fun Fact</h2>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="500">
+  I can type at lightning speed: <strong>70-80 words per minute!</strong> 🚀<br>
+  And I’m always up for a coding challenge! 💻
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Coding GIF">
 </p>
