@@ -66,7 +66,7 @@
 
 <h2 align="center">💡 Fun Extras</h2>
 <div align="center">
- <img src="https://github.com/iftixorrustamov/iftixorrustamov/raw/main/github-metrics.svg" alt="GitHub Metrics">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=radical&center=true&width=700&lines=Code+is+like+humor;+When+you+have+to+explain+it,+it's+bad.">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
 
