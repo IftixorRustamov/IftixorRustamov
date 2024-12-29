@@ -15,15 +15,39 @@
 <h2 align="center">💡 About Me</h2>
 
 <p align="center">
-  🔥 I'm a <strong>Mobile Developer</strong> from Uzbekistan 🇺🇿 who loves to create engaging and innovative mobile apps.<br>
+  🔥 I'm a <strong>Mobile Developer</strong> from <strong>Uzbekistan 🇺🇿</strong> who loves creating engaging and innovative mobile apps.<br>
   🌱 Currently sharpening my skills in <strong>Flutter Development</strong>.<br>
   🎯 My goal: To make the world more connected, one app at a time!<br>
   💬 Ask me about <strong>Flutter, Dart, and Version Control</strong>.<br>
-  📫 How to reach me: <a href="mailto:iftixorrustamovv@gmail.com"><strong>iftixorrustamovv@gmail.com</strong></a>.
+  📫 How to reach me: <a href="mailto:iftixorrustamovv@gmail.com"><strong>iftixorrustamovv@gmail.com</strong></a><br><br>
+
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://github.com/your-github" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+  </a>
+  <a href="https://stackoverflow.com/users/your-stackoverflow" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow Badge">
+  </a>
 </p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=radical&center=true&width=700&lines=Code+is+like+humor;+When+you+have+to+explain+it,+it's+bad.">
+
+<p align="center">
+  🚀 Let's connect and share knowledge! 👩‍💻<br>
+  🎧 Check out what I'm working on: <a href="https://github.com/your-github" target="_blank">My GitHub</a>.<br>
+  🔗 Some of my favorite repositories: 
+  <a href="https://github.com/your-repo-1" target="_blank">Repo 1</a> | 
+  <a href="https://github.com/your-repo-2" target="_blank">Repo 2</a>.
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=radical&center=true&width=700&lines=Code+is+like+humor;+When+you+have+to+explain+it,+it's+bad." alt="Typing Effect">
 
 ---
+
+
 
 <h2 align="center">🛠️ Skills & Tools</h2>
 
