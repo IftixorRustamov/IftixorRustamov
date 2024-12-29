@@ -66,7 +66,7 @@
 
 <h2 align="center">💡 Fun Extras</h2>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iftixorrustamov&theme=radical&row=1&column=7" alt="GitHub Trophies">
+<img src="https://starchart.cc/iftixorrustamov/badges.svg" alt="GitHub Stars Received">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
 
