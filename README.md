@@ -39,6 +39,7 @@
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
+![GitHub Contributions](https://github.com/tonal/github-contributions-canvas/blob/master/docs/iftixorrustamov.svg)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
 </div>
