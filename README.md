@@ -67,7 +67,7 @@
 
 <h2 align="center">💡 Fun Extras</h2>
 <div align="center">
- <img src="https://github-contribution-stats.vercel.app/api/v1/iftixorrustamov" alt="Contribution Heatmap">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iftixorrustamov&theme=radical" alt="GitHub Streak">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
 
