@@ -1,49 +1,77 @@
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro" alt="Header Image">
+  <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" alt="Coding GIF" width="500" height="300">
 </p>
 
-<h1 align="center">Hi 👋, I'm Iftikhor Rustamov</h1>
-<h3 align="center">A passionate Mobile developer from Uzbekistan</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=iftixorrustamov&label=Profile%20views&color=0e75b6&style=flat" alt="iftixorrustamov" /> </p>
+<h1 align="center">Hi there 👋, I'm Iftikhor Rustamov</h1>
+<h3 align="center">A Passionate Mobile Developer from Uzbekistan 🌍</h3>
 
-<div align="center">
-  
-- 🌱 I’m currently learning **Flutter Development**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iftixorrustamov&label=Profile%20views&color=brightgreen&style=plastic" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/iftixorrustamov?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
-- 💬 Ask me about **flutter, dart, version-control**
+---
 
-- 📫 How to reach me **iftixorrustamovv@gmail.com**
-  
+<h3 align="center">👨‍💻 About Me:</h3>
+<ul>
+  <li>🌱 I’m currently diving deeper into <strong>Flutter Development</strong>.</li>
+  <li>💬 Ask me about <strong>Flutter, Dart, and Version Control</strong>.</li>
+  <li>✨ Fun Fact: I can type <strong>70-80 words per minute</strong>.</li>
+  <li>📫 Reach me at: <a href="mailto:iftixorrustamovv@gmail.com"><strong>iftixorrustamovv@gmail.com</strong></a>.</li>
+</ul>
 
-<h3 align="center">Languages and Tools:</h3>
-<div/ align="center">
- <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
+---
 
-  <h3 align="center">Connect with me:</h3>
+<h3 align="center">🛠️ Languages and Tools:</h3>
+<p align="center">
+  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://figma.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/> </a>
+</p>
 
-<div align="center">
-<a href="https://linkedin.com/in/iftikhor rustamov">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iftikhor rustamov" height="30" width="40" />
-</a>
-<a href="https://instagram.com/im_iftikhor" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_iftikhor" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iftixorrustamovv" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iftixorrustamovv" height="30" width="40" /></a>
-</div>
+---
 
+<h3 align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iftixorrustamov&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftixorrustamov&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<div/>
+---
 
-<hr/>
+<h3 align="center">🌐 Connect with Me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/iftikhor-rustamov" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://instagram.com/im_iftikhor" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://www.leetcode.com/iftixorrustamovv" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+</p>
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iftixorrustamov&show_icons=true&locale=en&layout=compact" alt="iftixorrustamov" /></p>
+<h3 align="center">💡 Fun Extras:</h3>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iftixorrustamov&theme=github_dark" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftixorrustamov&" alt="iftixorrustamov" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&locale=en" alt="iftixorrustamov" /></p>
-
-</div>
-
-
-
+<h3 align="center">🚀 Let's Code the Future Together!</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="500">
+</p>
