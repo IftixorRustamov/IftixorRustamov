@@ -40,7 +40,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iftixorrustamov&theme=default" alt="GitHub Contribution Map">
+  <img src="https://jandee.vercel.app/your_github_username" alt="GitHub Contribution Calendar">
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
