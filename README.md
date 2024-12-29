@@ -69,7 +69,7 @@
 
 <h2 align="center">💡 Fun Extras</h2>
 <div align="center">
-<img src="https://github-contribution-stats.vercel.app/api/v1/iftixorrustamov?type=ring&theme=dark" alt="Radial Contribution Graph">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftixorrustamov&theme=github-dark&area=true&color=gradient" alt="Glowing Contribution Heatmap">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
 
