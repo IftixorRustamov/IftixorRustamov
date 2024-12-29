@@ -69,7 +69,7 @@
 
 <h2 align="center">💡 Fun Extras</h2>
 <div align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftixorrustamov&theme=high-contrast&area=true" alt="Sparkling Heatmap">
+  <img src="https://github-profile-trophy.vercel.app/?username=iftixorrustamov&row=2&column=3&theme=gruvbox" alt="Trophy Animation">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
 
