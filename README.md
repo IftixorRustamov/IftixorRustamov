@@ -3,7 +3,6 @@
 </p>
 
 <h1 align="center">🚀 Welcome to My World 🌟</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=radical&center=true&width=700&lines=Code+is+like+humor;+When+you+have+to+explain+it,+it's+bad.">
 <h2 align="center">Hi, I'm <span style="color: #007bff;">Iftikhor Rustamov</span> 👋</h2>
 <h3 align="center">Passionate Mobile Developer | Dreamer | Creator</h3>
 
@@ -22,6 +21,7 @@
   💬 Ask me about <strong>Flutter, Dart, and Version Control</strong>.<br>
   📫 How to reach me: <a href="mailto:iftixorrustamovv@gmail.com"><strong>iftixorrustamovv@gmail.com</strong></a>.
 </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=radical&center=true&width=700&lines=Code+is+like+humor;+When+you+have+to+explain+it,+it's+bad.">
 
 ---
 
