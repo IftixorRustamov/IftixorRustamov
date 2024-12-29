@@ -42,7 +42,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
 </div>
- <img src="https://github-readme-streak-stats.herokuapp.com?user=iftixorrustamov&theme=radical" alt="GitHub Streak">
+ <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iftixorrustamov&theme=radical" alt="GitHub Streak">
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftixorrustamov&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </div>
