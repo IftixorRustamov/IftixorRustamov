@@ -41,8 +41,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-profile-trophy.vercel.app/?username=iftixorrustamov&theme=radical&no-frame=true&column=4" alt="Trophy Showcase" width="48%">
 </div>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=iftixorrustamov&theme=radical" alt="GitHub Streak">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftixorrustamov&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </div>
