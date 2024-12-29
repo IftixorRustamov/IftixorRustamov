@@ -66,7 +66,9 @@
 
 <h2 align="center">💡 Fun Extras</h2>
 <div align="center">
-<img src="https://github.com/iftixorrustamov/iftixorrustamov/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+<a href="https://skyline.github.com/iftixorrustamov/2024" target="_blank">
+    <img src="https://github.com/iftixorrustamov/iftixorrustamov/raw/main/github-skyline.png" alt="GitHub Skyline" width="800">
+  </a>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
 
