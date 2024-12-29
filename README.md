@@ -67,7 +67,7 @@
 
 <h2 align="center">💡 Fun Extras</h2>
 <div align="center">
-  <img src="https://github.com/iftixorrustamov/iftixorrustamov/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+ <img src="https://github-contribution-stats.vercel.app/api/v1/iftixorrustamov" alt="Contribution Heatmap">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
 
