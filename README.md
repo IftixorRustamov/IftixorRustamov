@@ -69,7 +69,9 @@
 
 <h2 align="center">💡 Fun Extras</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iftixorrustamov&theme=radical" alt="GitHub Streak">
+  <a href="https://skyline.github.com/iftixorrustamov/2024" target="_blank">
+    <img src="https://github.com/iftixorrustamov/iftixorrustamov/raw/main/github-skyline.png" alt="GitHub Skyline">
+  </a>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
 </div>
 
