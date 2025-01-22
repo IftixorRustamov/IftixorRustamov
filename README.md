@@ -16,9 +16,9 @@
 
 <p align="center">
   🔥 I'm a <strong>Mobile Developer</strong> from <strong>Uzbekistan 🇺🇿</strong> who loves creating engaging and innovative mobile apps.<br>
-  🌱 Currently sharpening my skills in <strong>Flutter Development</strong>.<br>
+  🌱 Currently sharpening my skills in <strong>Mobile Development</strong>.<br>
   🎯 My goal: To make the world more connected, one app at a time!<br>
-  💬 Ask me about <strong>Flutter, Dart, and Version Control</strong>.<br>
+  💬 Ask me about <strong>Flutter, Dart, KMP and Version Control</strong>.<br>
   📫 How to reach me: <a href="mailto:iftixorrustamovv@gmail.com"><strong>iftixorrustamovv@gmail.com</strong></a><br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=radical&center=true&width=700&lines=Code+is+like+humor;+When+you+have+to+explain+it,+it's+bad." alt="Typing Effect">
