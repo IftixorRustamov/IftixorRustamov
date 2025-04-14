@@ -78,21 +78,3 @@
   </a>
 </div>
 
----
-
-<h2 align="center">💡 Fun Extras</h2>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
-</div>
-
----
-
-<h2 align="center">✨ Fun Fact</h2>
-
-I can type at lightning speed: **70-80 words per minute!** 🚀<br>
-And I’m always up for a coding challenge! 💻
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Coding GIF">
-</p>
-
