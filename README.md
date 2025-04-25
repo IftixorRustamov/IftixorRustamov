@@ -21,11 +21,6 @@
   💬 Ask me about <strong>Flutter, Dart, Native Android and Version Control</strong>.<br>
   📫 How to reach me: <a href="mailto:iftixorrustamovv@gmail.com"><strong>iftixorrustamovv@gmail.com</strong></a><br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=radical&center=true&width=700&lines=Code+is+like+humor;+When+you+have+to+explain+it,+it's+bad." alt="Typing Effect">
-
----
-
-
 
 <h2 align="center">🛠️ Skills & Tools</h2>
 
