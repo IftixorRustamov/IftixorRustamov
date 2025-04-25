@@ -46,11 +46,6 @@
 </div>
 
 
----
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iftixorrustamov&theme=react-dark&area=true" alt="GitHub Animated Pulse Graph">
-</div>
-
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iftixorrustamov&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
