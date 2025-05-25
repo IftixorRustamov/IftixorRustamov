@@ -6,10 +6,6 @@
 <h2 align="center">Hi, I'm <span style="color: #007bff;">Iftikhor Rustamov</span> 👋</h2>
 <h3 align="center">Passionate Mobile Developer | Dreamer | Creator</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=007bff&center=true&vCenter=true&width=440&lines=Building+apps+that+connect+people.;Turning+ideas+into+reality.;Learning+something+new+every+day." alt="Typing Animation">
-</p>
-
 ---
 
 <h2 align="center">💡 About Me</h2>
